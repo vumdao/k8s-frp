@@ -203,7 +203,7 @@ spec:
 <h3 align="center">
   <a href="https://dev.to/vumdao">:stars: Blog</a>
   <span> · </span>
-  <a href="https://github.com/vumdao/cdk8s-example">Github</a>
+  <a href="https://github.com/vumdao/k8s-frp">Github</a>
   <span> · </span>
   <a href="https://stackoverflow.com/users/11430272/vumdao">stackoverflow</a>
   <span> · </span>
